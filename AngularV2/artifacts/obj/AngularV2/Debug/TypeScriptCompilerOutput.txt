@@ -1,0 +1,12 @@
+C:\tmp\vsAngular2\vsAngular2\AngularV2\src\AngularV2\wwwroot\app\app.component.js
+C:\tmp\vsAngular2\vsAngular2\AngularV2\src\AngularV2\wwwroot\app\app.component.js.map
+C:\tmp\vsAngular2\vsAngular2\AngularV2\src\AngularV2\wwwroot\app\boot.js
+C:\tmp\vsAngular2\vsAngular2\AngularV2\src\AngularV2\wwwroot\app\boot.js.map
+C:\tmp\vsAngular2\vsAngular2\AngularV2\src\AngularV2\wwwroot\app\app.component.js
+C:\tmp\vsAngular2\vsAngular2\AngularV2\src\AngularV2\wwwroot\app\app.component.js.map
+C:\tmp\vsAngular2\vsAngular2\AngularV2\src\AngularV2\wwwroot\app\boot.js
+C:\tmp\vsAngular2\vsAngular2\AngularV2\src\AngularV2\wwwroot\app\boot.js.map
+C:\tmp\vsAngular2\vsAngular2\AngularV2\src\AngularV2\wwwroot\app\app.component.js
+C:\tmp\vsAngular2\vsAngular2\AngularV2\src\AngularV2\wwwroot\app\app.component.js.map
+C:\tmp\vsAngular2\vsAngular2\AngularV2\src\AngularV2\wwwroot\app\boot.js
+C:\tmp\vsAngular2\vsAngular2\AngularV2\src\AngularV2\wwwroot\app\boot.js.map
